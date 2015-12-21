@@ -7,4 +7,6 @@ New binaries for Windows and OSX SARCoin Wallet added with fixed code to resolve
 
 New security updates for wallets and theme. 20/12/2015
 
+Fixed QT Layers to show proper background. 22/12/2015
+
 -Admin
